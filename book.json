@@ -1,0 +1,18 @@
+{
+	"title": "A Cup Of JAVA",
+	"variables": {},
+	"links": {
+		"sidebar": {
+			"HOME": "https://youngoat.github.io"
+		}
+	},
+	"plugins": [
+		"toggle-chapters",
+		"catalog"
+	],
+	"pluginsConfig": {
+		"fontSettings": {
+			"size": 2
+		}
+	}
+}
