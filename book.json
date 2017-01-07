@@ -8,11 +8,15 @@
 	},
 	"plugins": [
 		"toggle-chapters",
-		"catalog"
+		"catalog",
+		"ga"
 	],
 	"pluginsConfig": {
 		"fontSettings": {
 			"size": 2
+		},
+		"ga": {
+			"token": "UA-80152063-2"
 		}
 	}
 }
