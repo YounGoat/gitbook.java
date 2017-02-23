@@ -50,10 +50,14 @@
 ##	编译
 
 ```bash
-mkdir out
 # javac 虽然可以指定输出目录，但该目录必须已经存在。
-
+mkdir out
 javac -d out Hello.java
 ```
 
 ##	运行
+
+```bash
+# 指定类寻址路径（./out），然后运行主类（Hello）。
+java -classpath out Hello
+```

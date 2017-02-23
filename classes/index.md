@@ -9,7 +9,7 @@
 *	*Guava: Google Core Libraries for Java*  
 	https://github.com/google/guava
 
-##	IO
+##	输入输出
 
 *	*Commons IO*  
 	http://commons.apache.org/proper/commons-io/
@@ -25,16 +25,39 @@
 *	*google-gson*  
 	https://github.com/google/gson
 
+##	压缩与解压缩
+
+*	*snappy-java*
+	http://xerial.org/snappy-java/  
+	https://github.com/xerial/snappy-java
+
 ##	网络
 
 *	*Apache HttpComponents*  
 	https://hc.apache.org  
 	https://hc.apache.org/httpcomponents-client-ga/quickstart.html
 
+*	*Netty*  
+	http://netty.io
+
+##	日志
+
+*	*SLF4J, Simple Logging Facade for Java*  
+  	http://www.slf4j.org
+
 ##	开发辅助
 
 *	*JUnit*  
 	http://junit.org/junit4/
+
+*	*Apache Thrift*   
+	https://thrift.apache.org
+
+*	*Hamcrest*  
+	http://hamcrest.org
+	>	Matchers that can be combined to create flexible expressions of intent
+
+	柔性测试工具。
 
 ##	在线资源
 

@@ -1,9 +1,17 @@
 #	Java 语法
 
+Java 发展至今已历经二十余载，其语法和语义亦经历了深入浅出的脱变。如需了解不同版本的特征，请参考“[历史篇](../history)”。
+
 ##	在线资源
+
+*	*Java™ Platform, Standard Edition 8, API Specification*  
+	http://docs.oracle.com/javase/8/docs/api/index.html
 
 *	*Java - Quick Guide*  
 	http://www.tutorialspoint.com/java/java_quick_guide.htm
+
+*	*JAVA Tutorial*  
+	http://wideskills.com/java-tutorial
 
 *	*A Quick, Painless Introduction to the Java Programming Language*  
 	http://heather.cs.ucdavis.edu/~matloff/Java/JavaIntro.html  
@@ -30,7 +38,7 @@ Matloff 热衷科普，自创了 *Quick, Painless* 的 IP，并撰写过不少�
 	http://heather.cs.ucdavis.edu/chinese.html  
 	http://heather.cs.ucdavis.edu/~matloff/chinese.html  
 
-在他的学校个人主页中，可以找到大量的各种的 Tutorial:
+在他的学校个人主页中，可以找到不少 Tutorial，可见这位教授对于时下各种热闹 IT 技术颇为在行:
 
 *	[*Professor Matloff's Java Beginners' Web Page*](http://heather.cs.ucdavis.edu/~matloff/java.html)
 *	[*Norm Matloff's LATEX  Tutorial Site*](http://heather.cs.ucdavis.edu/~matloff/latex.html)

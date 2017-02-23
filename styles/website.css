@@ -43,3 +43,20 @@ em {
 	color: #B31800;
 	font-style: normal !important;
 }
+
+blockquote em {
+	color: #666666;
+	font-weight: bold;
+	font-style: italic !important;
+}
+
+.glossary-term {
+	text-decoration: none !important;
+}
+.glossary-term:hover {
+	text-decoration: underline !important;
+}
+
+sup {
+	font-size: 1pt !important;
+}

@@ -8,15 +8,22 @@
 	},
 	"plugins": [
 		"toggle-chapters",
-		"catalog",
-		"ga"
+		"analytics",
+		"catalog"
 	],
 	"pluginsConfig": {
 		"fontSettings": {
 			"size": 2
 		},
-		"ga": {
-			"token": "UA-80152063-2"
+		"analytics": {
+			"google": {
+				"token": "UA-80152063-2",
+				"host": "youngoat.github.io"
+			},
+			"baidu": {
+				"token": "14e1e69c9ea9f2f43cbf24b5257e7205",
+				"host": "youngoat.github.io"
+			}
 		}
 	}
 }
